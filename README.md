@@ -1,0 +1,1 @@
+These are the jupyter notebooks used to create the lectures with extra comments added in some places. Feel free to fork this repo, clone it to your computer, and make changes to the notebooks to better learn the material. You need to have anaconda installed on your computer to be able to run jupyter notebooks.
