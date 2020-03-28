@@ -148,6 +148,7 @@ def f8(d1, d2):
             D[k] = d2[k]
         else:
             D[k] += d2[k]
+    return D
 
     """
     Notice that when you iterate over a dictionary, you are actually iterating over the keys in the dictionary. The statement k in D is the same thing as
