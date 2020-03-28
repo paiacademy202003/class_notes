@@ -19,7 +19,7 @@ of 3.
 list are the sums of the sublists. In the case of the list mentioned earlier, the function should return [3,7]
 
 6. Write a function that takes 2 lists of numbers that are assumed to be the same length, l1 and l2. It should return a new
-list L where L[i] is equal to l1[i] + l2[i]. This is called elementwise operation and is significantly easier to do with the
+list L where L[i] is equal to l1[i] + l2[i]. This is called elementwise addition and is significantly easier to do with the
 numpy library.
 
 7. Write a function that takes a sentence as a string as input. It should remove all the spaces in the string and combine all
